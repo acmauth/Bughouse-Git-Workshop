@@ -1,6 +1,6 @@
 const data=[
   {"Name": "Polychronopoulos Konstantinos", "Age": 20 ,"Hobbies":["Table Tennis","Chess"],"Fun Fact": "I grew up in Karditsa but don't call me Karditsioti","Dream Trip Destination": "Japan"},
-  {"Name": "Valentini Sidirpoulou", "Age": 20, "From": "Thessaloniki"},];
+  {"Name": "Valentini Sidirpoulou", "Age": 20, "From": "Thessaloniki"},
  {"Name": "Amanetidou Giwta", "Age": 19 ,"Hobbies":["Reading","Gaming"],"Fun Fact": "I hate flwrou","Dream Trip Destination": "France"},
    {"Name": "Florou Eleni ", "Age": 19 ,"Hobbies":["Reading","Videogames"],"Fun Fact": "Nantia is sitting next to me rn","Dream Trip Destination": "Spain or Japan"},
   {"Name": "Doumpenidou Elena", "Age": 19, "Hobbies": "Music", "Dream Trip": "China (Again)"},
