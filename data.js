@@ -6,7 +6,6 @@ const data=[
   {"Name": "Paraskevaidis Christos", "Age": 19 ,"Hobbies":["Video Games","Movies"],"Fun Fact": "Miso ton Giannh","Dream Trip Destination": "China"},
   {"Name": "Lioupis Themistoklis", "Age": 18 ,"Hobbies":["Video Games", "Basketball", "Beer!"],"Fun Fact": "Yes.","Dream Trip Destination": "Home"},
   {"Name": "Karachristos Giorgos", "Age": 18, "Hobbies":["Eating", "pingpong", "chess"], "Fun Fact": "Karditsa sucks worst place on earth volos solos", "Dream Trip Destination": "oxi karditsa"},
-    {"Name": "Valentini Sidirpoulou", "Age": 20},
 ];
 
 
